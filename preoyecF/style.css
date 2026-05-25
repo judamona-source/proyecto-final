@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(12, 1, 32);
+}
+h1{
+    color: rgba(221, 218, 231, 0.774);
+}
+.iconosinicio{
+    text-align: center;
+    width:270px;
+    background-color: rgb(250, 238, 219);
+    border:3px solid rgb(190, 147, 209);
+    border-radius: 12px;                        
+}
