@@ -6,8 +6,45 @@ h1{
 }
 .iconosinicio{
     text-align: center;
-    width:270px;
+    width: 150px;
     background-color: rgb(250, 238, 219);
     border:3px solid rgb(190, 147, 209);
-    border-radius: 12px;                        
+    border-radius: 12px;
+}
+
+.tableicons{
+    border-collapse: separate;
+    border-spacing: 8px 0;
+}
+
+.tableiconsinicio{
+    border-collapse: separate;
+    border-spacing: 8px 0;
+}
+
+P{
+    color: rgb(250, 238, 219);
+}
+.integrantes{
+    color: rgba(191, 191, 194, 0.87);
+    font-size: 16px;
+    position: Fixed;
+    bottom: 0;
+    width: 100%;
+    left: 110px;
+    padding: 10px;
+}
+.table1{
+    color: rgb(250, 238, 219);
+    text-align: center;
+    width: 90%;
+    background-color: rgb(62, 68, 65);
+    border:3px solid rgb(249, 248, 250);
+}
+
+.table2{
+    color: rgb(250, 238, 219);
+    text-align: center;
+    width: 90%;
+    font-size: 16px;
 }
